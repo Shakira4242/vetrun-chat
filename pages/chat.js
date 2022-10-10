@@ -19,7 +19,7 @@ class ChatwootWidget extends React.Component {
       g.async=!0;
       g.onload=function(){
         window.chatwootSDK.run({
-          websiteToken: 'WQqLaL5WVn7ymwCZZoknFQPf',
+          websiteToken: 'SPF4BBWftAD5pk5KHMEL4ytY',
           baseUrl: BASE_URL
         });
       }
